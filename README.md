@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crazy-titan2004
 - 👀 I’m interested in football and cricket 
-- 🌱 I’m currently learning python programming 
+- 🌱 I’m currently learning web Dev 
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 contact @ronak25jan@gmail.com
 
